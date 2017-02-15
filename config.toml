@@ -1,0 +1,6 @@
+languageCode = "en-us"
+title = "Indie Academy"
+baseurl = "https://www.indie.academy/"
+
+[params]
+email = "hej@indie.academy"
