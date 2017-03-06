@@ -2,7 +2,7 @@
 title = "Indie Academy"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-baseurl = "http://localhost:1313"
+baseurl = "https://indie.academy"
 theme = "hugo-indie-theme"
 copyright = "&copy; 2017 Indie Academy"
 googleAnalytics = "UA-91886706-1"
