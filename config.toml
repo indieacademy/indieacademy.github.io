@@ -15,7 +15,7 @@ sharing = true
 	tag = "tags"
 
 [params]
-	description = "Awesome Indie Academy Template"
+	description = "Awesome Indie Academy template"
 	author = "Onur Akpolat"
 	email = "hej@indie.academy"
 
