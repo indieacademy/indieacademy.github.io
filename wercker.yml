@@ -1,7 +1,4 @@
 box: debian
 build:
-  steps:
-    - script:
-        name: echo
-        code: |
-          echo "hello world!"
+    steps:
+        - arjen/hugo-build@1.15.1
