@@ -5,8 +5,7 @@ build:
             packages: git
         - script:
             name: download theme
-            code: |
-            $(git clone https://github.com/onurakpolat/hugo-indie-theme ./themes/hugo-indie-theme)
+            code: $(git clone https://github.com/onurakpolat/hugo-indie-theme ./themes/hugo-indie-theme)
         - arjen/hugo-build:
             version: "0.19"
             theme: hugo-indie-theme
