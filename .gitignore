@@ -57,4 +57,5 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
+# Hugo public
+/public
