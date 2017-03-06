@@ -58,6 +58,6 @@ sharing = true
 	url = "/books/"
 	weight = 5
 
-# Configure the English version of the website.
+# Configure the English version of the website
 [languages.en]
 	languageCode = "en-us"
