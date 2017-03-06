@@ -15,5 +15,11 @@ deploy:
             packages: git ssh-client
         - lukevivier/gh-pages@0.2.1:
             token: $GIT_TOKEN
-            domain: www.indie.academ
+            domain: www.indie.academy
             basedir: public
+purge:
+  steps:
+    - seigyo/cloudflare-purge:
+        api: $CLOUDFLARE_TOKEN
+        email: $EMAIL
+        domain: indie.academy
