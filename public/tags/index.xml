@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indie Academy</title>
+    <link>http://localhost:1313/tags/index.xml</link>
+    <description>Recent content on Indie Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Indie Academy</copyright>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>bytecourse</title>
+      <link>http://localhost:1313/content/project/bytecourse/</link>
+      <pubDate>Mon, 06 Mar 2017 15:53:23 +0100</pubDate>
+      
+      <guid>http://localhost:1313/content/project/bytecourse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
