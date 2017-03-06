@@ -1,22 +1,21 @@
 +++
 date = "2017-03-06T15:53:23+01:00"
-timeline = ""
-tags = [""]
-summary = ""
-monetization = ""
-investment = ""
 goal = ""
-learn = []
-video = ""
-revenue_type = ""
-passiveness = ""
+investment = ""
+learn = ""
 mentor = ""
-title = "bytecourse"
+monetization = ""
+passiveness = ""
+revenue_type = ""
 skill = 1
-
+summary = ""
+tags = [""]
+timeline = ""
+title = "Bytecourse"
+video = ""
 [header]
-  caption = ""
-  image = ""
+caption = ""
+image = ""
 
 +++
-
+This is a text
