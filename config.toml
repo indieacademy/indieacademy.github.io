@@ -58,6 +58,11 @@ sharing = true
 	url = "/books/"
 	weight = 5
 
+[[menu.main]]
+	name = "Revenue"
+	url = "/revenue/"
+	weight = 6
+
 # Configure the English version of the website
 [languages.en]
 	languageCode = "en-us"
