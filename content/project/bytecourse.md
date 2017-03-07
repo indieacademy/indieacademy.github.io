@@ -18,4 +18,4 @@ caption = ""
 image = ""
 
 +++
-This is a text
+Bytecourse is awesome.
