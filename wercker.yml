@@ -9,6 +9,13 @@ build:
         - arjen/hugo-build:
             version: "0.19"
             theme: hugo-indie-theme
+    after-steps:
+        - install-packages:
+            packages: ruby
+        - wantedly/pretty-slack-notify:
+            webhook_url: $SLACK_WEBHOOK_URL
+            channel: dev-logs
+            passed_message: Boom! Indie Academy Site was built! :ghost:
 deploy:
     steps:
         - install-packages:
@@ -17,9 +24,23 @@ deploy:
             token: $GIT_TOKEN
             domain: www.indie.academy
             basedir: public
+    after-steps:
+        - install-packages:
+            packages: ruby
+        - wantedly/pretty-slack-notify:
+            webhook_url: $SLACK_WEBHOOK_URL
+            channel: dev-logs
+            passed_message: Yaay, new version deployed! :japanese_ogre:
 purge:
   steps:
     - seigyo/cloudflare-purge:
         api: $CLOUDFLARE_TOKEN
         email: $EMAIL
         domain: indie.academy
+    after-steps:
+        - install-packages:
+            packages: ruby
+        - wantedly/pretty-slack-notify:
+            webhook_url: $SLACK_WEBHOOK_URL
+            channel: dev-logs
+            passed_message: Heureka, Cloudflare cache is purged, nice and clean :poop:
