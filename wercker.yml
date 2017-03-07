@@ -15,6 +15,7 @@ build:
         - wantedly/pretty-slack-notify:
             webhook_url: $SLACK_WEBHOOK_URL
             channel: dev-logs
+            passed_message: Boom! Indie Academy Site was built!
 deploy:
     steps:
         - install-packages:
@@ -29,7 +30,7 @@ deploy:
         - wantedly/pretty-slack-notify:
             webhook_url: $SLACK_WEBHOOK_URL
             channel: dev-logs
-            passed_message: Yaay, new version deployed! :japanese_ogre:
+            passed_message: Yaay, new version deployed!
 purge:
   steps:
     - seigyo/cloudflare-purge:
@@ -42,4 +43,4 @@ purge:
         - wantedly/pretty-slack-notify:
             webhook_url: $SLACK_WEBHOOK_URL
             channel: dev-logs
-            passed_message: Heureka, Cloudflare cache is purged, nice and clean :poop:
+            passed_message: Heureka, Cloudflare cache is purged, nice and clean.
