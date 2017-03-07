@@ -32,11 +32,11 @@ deploy:
             channel: dev-logs
             passed_message: Yaay, new version deployed!
 purge:
-  steps:
-    - seigyo/cloudflare-purge:
-        api: $CLOUDFLARE_TOKEN
-        email: $EMAIL
-        domain: indie.academy
+    steps:
+        - seigyo/cloudflare-purge:
+            api: $CLOUDFLARE_TOKEN
+            email: $EMAIL
+            domain: indie.academy
     after-steps:
         - install-packages:
             packages: ruby
