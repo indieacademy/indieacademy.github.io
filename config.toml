@@ -18,6 +18,7 @@ sharing = true
 	description = "Awesome Indie Academy Template"
 	author = "Onur Akpolat"
 	email = "hej@indie.academy"
+	mailchimpURL = "//academy.us15.list-manage.com/subscribe/post?u=e13eb956f39adfc0167aba5e0&amp;id=aac458223f"
 
 # Social accounts
 [[params.social]]
