@@ -54,13 +54,14 @@ sharing = true
 	weight = 4
 
 [[menu.main]]
-	name = "Books"
-	url = "/books/"
+	name = "Revenue"
+	url = "/revenue/"
 	weight = 5
 
 [[menu.main]]
-	name = "Revenue"
-	url = "/revenue/"
+	name = "Subscribe"
+	url = "/subscribe/"
+	identifier = "subscribebtn"
 	weight = 6
 
 # Configure the English version of the website
