@@ -1,22 +1,22 @@
 +++
-summary = ""
+title = "Amazon FBA"
+summary = "Source products and sell on Amazon"
 mentor = ""
 video = ""
 revenue_type = ""
 monetization = ""
 passiveness = ""
 investment = ""
-tags = []
-timeline = ""
+tags = ["Sourcing","Amazon SEO"]
+timeline = "6 weeks"
 learn = []
 date = "2017-02-27T01:23:58+01:00"
-title = "Amazon FBA"
 skill = 1
-goal = ""
+goal = "1000"
 
 [header]
   caption = ""
-  image = ""
+  image = "/svg/shopping-64px-glyph_box.svg"
 
 +++
 
