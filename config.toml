@@ -20,6 +20,7 @@ sharing = true
 	email = "hej@indie.academy"
 	newsletter = true
 	mailchimp = "//academy.us15.list-manage.com/subscribe/post?u=e13eb956f39adfc0167aba5e0&amp;id=aac458223f"
+	newsletterCTA = "Join our community to get the latest content to your inbox."
 
 # Social accounts
 [[params.social]]
