@@ -37,33 +37,32 @@ sharing = true
 # Navigation menu
 [[menu.main]]
 	name = "Projects"
-	url = "/projects/"
+	url = "/"
 	weight = 1
 
 [[menu.main]]
 	name = "Blog"
-	url = "/blog/"
+	url = "#"
 	weight = 2
 
 [[menu.main]]
 	name = "Philosophy"
-	url = "/philosophy/"
+	url = "#"
 	weight = 3
 
 [[menu.main]]
 	name = "FAQ"
-	url = "/faq/"
+	url = "#"
 	weight = 4
 
 [[menu.main]]
 	name = "Revenue"
-	url = "/revenue/"
+	url = "#"
 	weight = 5
 
 [[menu.main]]
 	name = "Subscribe"
-	url = "/subscribe/"
-	pre = ""
+	url = "#"
 	identifier = "subscribebtn"
 	weight = 6
 
