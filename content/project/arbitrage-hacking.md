@@ -1,5 +1,5 @@
 +++
-title = "arbitrage hacking"
+title = "Arbitrage hacking"
 skill = 3
 timeline = "1 week"
 monetization = ""

@@ -10,7 +10,7 @@ summary = "Build a podcast business"
 monetization = ""
 passiveness = ""
 timeline = "4 weeks"
-title = "podcast"
+title = "Podcast"
 date = "2017-03-20T23:29:39+01:00"
 investment = ""
 
