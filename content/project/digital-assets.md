@@ -1,6 +1,6 @@
 +++
 monetization = ""
-goal = "$100"
+goal = "100"
 mentor = ""
 timeline = "6 weeks"
 video = ""

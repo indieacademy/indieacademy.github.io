@@ -12,7 +12,7 @@ summary = "Build a SaaS business"
 investment = ""
 skill = 3
 tags = ["Frontend development","Backend development"]
-goal = "$1,000"
+goal = "1,000"
 
 [header]
   caption = ""
