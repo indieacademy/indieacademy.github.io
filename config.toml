@@ -21,19 +21,41 @@ sharing = true
 	newsletter = true
 	mailchimp = "//academy.us15.list-manage.com/subscribe/post?u=e13eb956f39adfc0167aba5e0&amp;id=aac458223f"
 	newsletterCTA = "Join our community to get the latest content to your inbox."
+	particles = false
 
 # Social accounts
 [[params.social]]
-	link = "mailto:hej@indie.academy"
+	name = "facebook"
+	icon = "/svg/facebook.svg"
+	url = "//facebook.com/indieacademycrew"
 
 [[params.social]]
-	link = "//facebook.com/indieacademycrew"
+	name = "twitter"
+	icon = "/svg/twitter.svg"
+ 	url = "//twitter.com/theindieacademy"
 
 [[params.social]]
- 	link = "//twitter.com/theindieacademy"
+	name = "github"
+	icon = "/svg/github.svg"
+	url = "//github.com/indieacademy"
 
 [[params.social]]
-	link = "//github.com/indieacademy"
+	name = "youtube"
+	icon = "/svg/youtube.svg"
+	url = "//youtube.com"
+
+# Legal footer links
+[[params.legal]]
+	name = "Privacy Policy"
+ 	url = "/privacy"
+
+[[params.legal]]
+	name = "Imprint"
+	url = "/imprint"
+
+[[params.legal]]
+	name = "Contact us"
+	url = "/contact"
 
 # Navigation menu
 [[menu.main]]
