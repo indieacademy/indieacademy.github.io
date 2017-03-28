@@ -4,7 +4,7 @@ monetization = ""
 mentor = ""
 video = "putlink"
 description = ""
-tags = ["Video production", "Facebook Ads"]
+tags = []
 timeline = "6 weeks"
 summary = "Create and sell online courses"
 investment = ""
@@ -12,7 +12,7 @@ skill = 2
 goal = "200"
 title = "Online Course"
 passiveness = ""
-learn = []
+learn = ["Video production", "Facebook Ads"]
 revenue_type = ""
 
 [header]

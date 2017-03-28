@@ -8,10 +8,10 @@ mentor = ""
 goal = "250"
 revenue_type = ""
 summary = "Exploit price fluctuations"
-learn = []
+learn = ["Matched betting","Data scraping"]
 video = "putlink"
 description = ""
-tags = ["Matched betting","Data scraping"]
+tags = []
 date = "2017-03-20T23:28:24+01:00"
 passiveness = ""
 

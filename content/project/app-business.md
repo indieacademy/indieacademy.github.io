@@ -12,7 +12,8 @@ title = "App Business"
 summary = "Create an app with a subscription model"
 video = "putlink"
 description = ""
-tags = ["App development","ASO"]
+tags = []
+learn = ["App development","ASO"]
 
 [header]
   caption = ""

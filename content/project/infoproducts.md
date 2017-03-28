@@ -1,5 +1,5 @@
 +++
-tags = ["Content creation","Amazon Ads"]
+tags = []
 revenue_type = ""
 summary = "Create and sell infoproducts"
 date = "2017-03-20T23:28:11+01:00"
@@ -8,7 +8,7 @@ skill = 1
 investment = ""
 goal = "100"
 mentor = ""
-learn = []
+learn = ["Content creation","Amazon Ads"]
 video = "putlink"
 description = ""
 monetization = ""

@@ -12,7 +12,7 @@ timeline = "10 weeks"
 monetization = ""
 passiveness = ""
 date = "2017-03-20T23:29:20+01:00"
-tags = ["Financial market","Bot development"]
+tags = []
 investment = ""
 
 [header]

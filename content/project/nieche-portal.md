@@ -6,13 +6,13 @@ passiveness = ""
 video = "putlink"
 description = ""
 skill = 1
-tags = ["Content creation","SEO"]
+tags = []
 mentor = ""
 summary = "Create and monetize a rich blog"
 goal = "50"
 title = "Nieche Portal"
 monetization = ""
-learn = []
+learn = ["Content creation","SEO"]
 revenue_type = ""
 
 [header]

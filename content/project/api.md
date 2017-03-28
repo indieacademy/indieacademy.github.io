@@ -13,7 +13,7 @@ video = "putlink"
 description = ""
 passiveness = ""
 investment = ""
-tags = ["API Design", "Backend Development"]
+tags = []
 
 [header]
   caption = ""

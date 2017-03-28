@@ -3,7 +3,7 @@ monetization = ""
 passiveness = ""
 mentor = ""
 title = "SaaS Business"
-learn = []
+learn = ["Frontend development","Backend development"]
 video = "putlink"
 description = ""
 revenue_type = ""
@@ -12,7 +12,7 @@ timeline = "20 weeks"
 summary = "Build a SaaS business"
 investment = ""
 skill = 3
-tags = ["Frontend development","Backend development"]
+tags = []
 goal = "1,000"
 
 [header]

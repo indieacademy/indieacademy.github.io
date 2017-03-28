@@ -1,11 +1,11 @@
 +++
 revenue_type = ""
 skill = 2
-tags = ["Video production","Youtube SEO"]
+tags = []
 summary = "Build and monetize a Youtube channel"
 monetization = ""
 passiveness = ""
-learn = []
+learn = ["Video production","Youtube SEO"]
 video = "putlink"
 description = ""
 title = "Youtube channel"

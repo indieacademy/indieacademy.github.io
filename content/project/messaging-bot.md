@@ -6,13 +6,13 @@ investment = ""
 mentor = ""
 title = "Messaging bot"
 summary = "Implement and monetize a chat bot"
-learn = []
+learn = ["Bot development","NLP"]
 goal = "100"
 passiveness = ""
 skill = 3
 video = "putlink"
 description = ""
-tags = ["Bot development","NLP"]
+tags = []
 monetization = ""
 
 [header]

@@ -1,12 +1,12 @@
 +++
 revenue_type = ""
-tags = ["Audio production", "Podcast marketing"]
+tags = []
 video = "putlink"
 description = ""
 skill = 2
 goal = "100"
 mentor = ""
-learn = []
+learn = ["Audio production", "Podcast marketing"]
 summary = "Build a podcast business"
 monetization = ""
 passiveness = ""
