@@ -10,7 +10,8 @@ learn = []
 goal = "100"
 passiveness = ""
 skill = 3
-video = ""
+video = "putlink"
+description = ""
 tags = ["Bot development","NLP"]
 monetization = ""
 

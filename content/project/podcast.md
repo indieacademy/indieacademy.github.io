@@ -1,7 +1,8 @@
 +++
 revenue_type = ""
 tags = ["Audio production", "Podcast marketing"]
-video = ""
+video = "putlink"
+description = ""
 skill = 2
 goal = "100"
 mentor = ""

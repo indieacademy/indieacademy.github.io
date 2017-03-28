@@ -10,7 +10,8 @@ tags = ["Frontend development","Brand building"]
 summary = "Build and monetize a nieche community"
 timeline = "12 weeks"
 revenue_type = ""
-video = ""
+video = "putlink"
+description = ""
 passiveness = ""
 investment = ""
 

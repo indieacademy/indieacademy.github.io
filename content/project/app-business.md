@@ -10,7 +10,8 @@ skill = 2
 goal = "200"
 title = "App Business"
 summary = "Create an app with a subscription model"
-video = ""
+video = "putlink"
+description = ""
 tags = ["App development","ASO"]
 
 [header]
