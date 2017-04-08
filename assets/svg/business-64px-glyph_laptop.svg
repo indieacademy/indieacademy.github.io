@@ -1,0 +1,9 @@
+<svg class="nc-icon glyph" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64">
+<g>
+<path fill="#ffffff" d="M62,47H2c-0.6,0-1,0.4-1,1v1c0,2.2,1.8,4,4,4h54c2.2,0,4-1.8,4-4v-1C63,47.4,62.6,47,62,47z"></path>
+<path fill="#ffffff" d="M10,45V16c0-1.1,0.9-2,2-2h40c1.1,0,2,0.9,2,2v29h4V16c0-3.3-2.7-6-6-6H12c-3.3,0-6,2.7-6,6v29H10z"></path>
+<path data-color="color-2" fill="#ffffff" d="M30,19c-0.6,0-1,0.4-1,1v20c0,0.6,0.4,1,1,1h4c0.6,0,1-0.4,1-1V20c0-0.6-0.4-1-1-1H30z"></path>
+<path data-color="color-2" fill="#ffffff" d="M18,31c-0.6,0-1,0.4-1,1v8c0,0.6,0.4,1,1,1h4c0.6,0,1-0.4,1-1v-8c0-0.6-0.4-1-1-1H18z"></path>
+<path data-color="color-2" fill="#ffffff" d="M42,27c-0.6,0-1,0.4-1,1v12c0,0.6,0.4,1,1,1h4c0.6,0,1-0.4,1-1V28c0-0.6-0.4-1-1-1H42z"></path>
+</g>
+</svg>

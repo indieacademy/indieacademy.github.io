@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lessons on Indie Academy</title>
+    <link>https://indie.academy/lesson/index.xml</link>
+    <description>Recent content in Lessons on Indie Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Indie Academy</copyright>
+    <lastBuildDate>Sat, 08 Apr 2017 23:09:29 +0200</lastBuildDate>
+    <atom:link href="https://indie.academy/lesson/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>marketing</title>
+      <link>https://indie.academy/lesson/marketing/</link>
+      <pubDate>Sat, 08 Apr 2017 23:09:29 +0200</pubDate>
+      
+      <guid>https://indie.academy/lesson/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Find your audience</title>
+      <link>https://indie.academy/lesson/audience/</link>
+      <pubDate>Sat, 08 Apr 2017 21:57:22 +0200</pubDate>
+      
+      <guid>https://indie.academy/lesson/audience/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

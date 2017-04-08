@@ -1,0 +1,25 @@
+h1,
+h2,
+h3,
+h4 {
+	color: rgba(74, 74, 74, 1);
+}
+
+p,
+li,
+:not(header nav ul li) span {
+	color: rgba(74, 74, 74, .8);
+}
+
+p,
+main li,
+.syllabus span {
+	font-size: 1.2rem;
+	font-weight: 300;
+	letter-spacing: .02rem;
+}
+
+p:not(.projectdesc) {
+	line-height: 2;
+	text-align: justify;
+}
