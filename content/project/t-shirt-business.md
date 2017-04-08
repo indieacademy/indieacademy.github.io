@@ -8,7 +8,7 @@ investment = "0"
 passiveness = ""
 timeline = "1 week"
 learn = ["T-Shirt design","Facebook Ads"]
-syllabus = ["Find your audience","Design your Shirt","Place your product","Run ad campaigns","audience"]
+syllabus = ["Find your audience","Design your Shirt","Place your product","Run ad campaigns"]
 monetization = ""
 revenue_type = ""
 tags = []
@@ -26,9 +26,3 @@ Welcome to the T-Shirt Business project, where you'll learn building an online b
 Making money for a living is nice and yet there has to be more. One of the core goals of Indie Academy is to constantly keep learning new things to a level of mastery. While learning itself is honorable its also the new procrastination, everyone wants to learn everyone and there is so much more to learn. Thats why we'll build to learn and don't learn to build.
 
 Topics you’ll learn in this course include:
-
-- Nieche analysis
-- T-Shirt design
-- Facebook Ads
-- Instragram Ads
-- T-Shirt Marketplaces
